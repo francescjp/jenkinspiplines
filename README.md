@@ -1,6 +1,8 @@
 # jenkinspiplines
 
-##Proyecto de ejemplo de Pipelines en Jenkins
+## Proyecto de ejemplo de Pipelines en Jenkins
+
+[Quick Reference](https://www.cloudbees.com/sites/default/files/declarative-pipeline-refcard.pdf)
 
 [Pipline de proyecto maven](https://github.com/francescjp/jenkinspiplines/blob/master/pipes/maven2.groovy)
 
