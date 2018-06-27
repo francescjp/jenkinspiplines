@@ -11,5 +11,7 @@ Aqui podemos consultar un manual de referencia de jenkins pipeline: [Quick Refer
 
 Pipelines de ejemplo:
 * [Pipline de proyecto maven](https://github.com/francescjp/jenkinspiplines/blob/master/pipes/maven2.groovy)
-
+* [Pipe con analisis de sonar](https://github.com/francescjp/jenkinspiplines/blob/master/pipes/sonar.groovy)
+* [Pipe con credentials](https://github.com/francescjp/jenkinspiplines/blob/master/pipes/saucelabs.groovy)
+* [APlicacion node con container](https://github.com/francescjp/jenkinspiplines/blob/master/pipes/docker-node.groovy)
 [Ejemplos sacados de aqui](https://bitbucket.org/itnove/jenkinsdeclarativepipelines)
